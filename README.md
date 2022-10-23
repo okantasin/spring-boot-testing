@@ -1,0 +1,11 @@
+# spring-boot-testing
+-- Added Unit test for employee operation
+-- Unit test for get all employees operation
+-- Unit test for get employee id operation
+-- Unit test for get employee by email operation
+-- Unit test for update employee operation
+-- Unit test for delete employee operation
+-- Unit test for Spring Data JPA custom query method using JPQL with index parameters
+-- Unit test for Spring Data JPA custom query method using JPQL with named parameters
+-- Unit test for Spring Data JPA custom  native query with index parameters
+-- Unit test for Spring Data JPA custom  native query with named parameters

@@ -20,3 +20,13 @@
 8. Unit test for EmployeeService getEmployeeById method
 9. Unit test for EmployeeService updateEmployee method 
 10. Unit test for EmployeeService deleteEmployee method
+# Unit Test Controller Layer(Unit Test REST APIs)
+1.@MockMvcTest Annotation
+2.Build createEmployee REST API
+3.Unit test createEmployee REST API
+4.Build GetAllEmployees REST API 
+5.Unit test GetAllEmployees REST API 6.Refactoring JUnit test to use static imports 
+7.Build getEmployeeById REST API
+8.Unit test getEmployeeById REST API - Positive Scenario 9.Unit test getEmployeeById REST API - Negative Scenario 10.Build updateEmployee REST API 
+11.Unit test updateEmployee REST API - Positive Scenario 12.Unit test updateEmployee REST API - Negative Scenario 13.Build deleteEmployee REST API
+ 14.Unit test deleteEmployee REST AP
